@@ -32,7 +32,7 @@ public class Snapdeal6 {
         continuebutton.click(); 
         
         Thread.sleep(3000);
-        
+        System.out.println("Snapdeal opened successfully");
         
         //once the code is given manually inside the website the Login page opens.
         
